@@ -1,0 +1,2 @@
+- Python3
+-Scikit learn, TensorFlow, Keras and it's modules
